@@ -1,3 +1,6 @@
+import numpy as np
+import math
+
 # Dense layer
 class Dense:
 
